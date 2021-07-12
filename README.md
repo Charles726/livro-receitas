@@ -1,4 +1,5 @@
-# livro-receitas
+# livro-receitas :man_cook:
 Teste do curso de git - Digital Innovation One
-## Olá Bem vindo ao meu livro de receitas!!  
-#### Strogonoff de Frango.
+## _Olá Bem vindo ao meu livro de receitas_!! 
+#### - Strogonoff de Frango. :chicken:
+
